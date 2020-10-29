@@ -1,0 +1,4 @@
+/Users/akiichris/Projects/BlockBuster/BlockBuster/obj/Debug/netcoreapp3.1/BlockBuster.csprojAssemblyReference.cache
+/Users/akiichris/Projects/BlockBuster/BlockBuster/obj/Debug/netcoreapp3.1/BlockBuster.AssemblyInfoInputs.cache
+/Users/akiichris/Projects/BlockBuster/BlockBuster/obj/Debug/netcoreapp3.1/BlockBuster.AssemblyInfo.cs
+/Users/akiichris/Projects/BlockBuster/BlockBuster/obj/Debug/netcoreapp3.1/BlockBuster.csproj.CoreCompileInputs.cache
